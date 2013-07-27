@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vert Training</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="mainMenu">
+        <item >Create session</item>
+        <item >Load session</item>
+        <item >Create schedule</item>
+        <item >Load schedule</item>
+        <item >Manage Exercises</item>
+    </string-array>
+    <string name="hello">Settings</string>
+    <string name="add">Add new</string>
+    <string name="delete">Delete first</string> 
+    <string name="exerciseNaming">Exercise name</string>
+    <string name="exerciseDescriptor">Exercise description</string>
+    <string name="exerciseTitle">Add exercise</string>
+    <string name="exerciseDelete">Delete exercise</string>
+    <string name="trainingNaming">Training name</string>
+    <string name="trainingTitle">Add training</string>
+    <string name="exerciseNoSets">Number of sets(if applicable)</string>
+    <string name="exerciseNoReps">Number of reps(if applicable)</string>
+    <string name="exerciseNoDist">Distance in meters(if applicable)</string>
+    <string name="scheduleTitle">Add schedule</string>
+    
+    
+    
+
+</resources>
